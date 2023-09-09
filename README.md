@@ -1,6 +1,6 @@
 # AM ROYALE
  currency and betting bot for AM Discord Server
 
-bask in my spaghetti code
+come bask in my spaghetti code
 
 (new changes on replit, might update GitHub version eventually)
